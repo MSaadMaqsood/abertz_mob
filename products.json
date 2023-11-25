@@ -1,0 +1,1177 @@
+{
+  "PanCake": {
+    "product_title": "Pan Cake",
+    "product_title_subtitle": "Oil Free",
+    "img": "assets/Products/Pan Cake_.jpg",
+    "link": "single_products/PanCake",
+    "product_description": "Pan Cake is color-intensive, water activated make-up in a compact powder format designed for application to the face, neck and body. Chosen by many movie makeup artists to help fashion flawless faces-help veil skin imperfections. Moisture enriched for a silky-smooth, soft matte finish. Water activated formula gives you great control to cover as much or as little as you wish.",
+    "featureProductHomePage": false,
+    "product_description_img": "assets/product_description/pancake/post.jpg",
+    "product_additional_information_color": "Black, White, pink, etc.",
+    "product_additional_information_weight": "30gm",
+    "product_additional_information_lasting": "24 hours",
+    "product_additional_information_spf": "30",
+    "product_additional_information_expriy": "2 years",
+    "suggestion_1": "PeeloffNailPaint",
+    "suggestion_2": "Serumfoundation",
+    "suggestion_3": "SpringLotion",
+    "product360imgpath": "Pan Cake",
+    "model_lst": [
+      {
+        "color": "#000",
+        "scale": 3,
+        "position": [
+          -30,
+          0,
+          80.3
+        ],
+        "type": null,
+        "path": "assets/product_description/pancake/3d model pancake/Black/PanCake.gltf"
+      },
+      {
+        "color": "#e7e7e7",
+        "scale": 3,
+        "position": [
+          -30,
+          0,
+          80.3
+        ],
+        "type": null,
+        "path": "assets/product_description/pancake/3d model pancake/off white/PanCake.gltf"
+      },
+      {
+        "color": "#fcd4d4",
+        "scale": 3,
+        "position": [
+          -30,
+          0,
+          80.3
+        ],
+        "type": null,
+        "path": "assets/product_description/pancake/3d model pancake/pink/PanCake.gltf"
+      }
+    ],
+    "shades": [
+      {
+        "img": "assets/product_description/pancake/Shades/Shades-01.jpg"
+      },
+      {
+        "img": "assets/product_description/pancake/Shades/Shades-02.jpg"
+      },
+      {
+        "img": "assets/product_description/pancake/Shades/Shades-03.jpg"
+      },
+      {
+        "img": "assets/product_description/pancake/Shades/Shades-04.jpg"
+      },
+      {
+        "img": "assets/product_description/pancake/Shades/Shades-05.jpg"
+      },
+      {
+        "img": "assets/product_description/pancake/Shades/Shades-06.jpg"
+      },
+      {
+        "img": "assets/product_description/pancake/Shades/Shades-07.jpg"
+      },
+      {
+        "img": "assets/product_description/pancake/Shades/Shades-08.jpg"
+      },
+      {
+        "img": "assets/product_description/pancake/Shades/Shades-09.jpg"
+      },
+      {
+        "img": "assets/product_description/pancake/Shades/Shades-10.jpg"
+      }
+    ]
+  },
+  "AquaBase": {
+    "product_title": "Aqua Base",
+    "product_title_subtitle": "Oil Free",
+    "img": "assets/Products/Aqua Base.jpg",
+    "link": "single_products/AquaBase",
+    "product_description": "The Wet Make-up look is all about achieving a healthy glow with dewy skin & mega shine. The Wet Make-up look takes regular dewy make-up & brings it up a notch by layering hydrating skincare, facial oils & glossy make-up Products.",
+    "featureProductHomePage": false,
+    "product_description_img": "assets/product_description/Aqua Base/post.jpg",
+    "product_additional_information_color": "Black, White, Pink, etc.",
+    "product_additional_information_weight": "30gm, 40gm, 50gm",
+    "product_additional_information_lasting": "24 hours",
+    "product_additional_information_spf": "25",
+    "product_additional_information_expriy": "2 years",
+    "suggestion_1": "Bridalbase",
+    "suggestion_2": "CakeEyeliner",
+    "suggestion_3": "Compactpowder",
+    "product360imgpath": "Aqua Base",
+    "model_lst": [
+      {
+        "color": "#000",
+        "scale": 3,
+        "position": [
+          -30,
+          0,
+          80.3
+        ],
+        "type": null,
+        "path": "assets/product_description/Aqua Base/3d model Aqua Base/black/Aqua Base.gltf"
+      },
+      {
+        "color": "#e7e7e7",
+        "scale": 3,
+        "position": [
+          -30,
+          0,
+          80.3
+        ],
+        "type": null,
+        "path": "assets/product_description/Aqua Base/3d model Aqua Base/off white/Aqua Base.gltf"
+      },
+      {
+        "color": "#fcd4d4",
+        "scale": 3,
+        "position": [
+          -30,
+          0,
+          80.3
+        ],
+        "type": null,
+        "path": "assets/product_description/Aqua Base/3d model Aqua Base/Pink/Aqua Base.gltf"
+      }
+    ],
+    "shades": [
+      {
+        "img": "assets/product_description/Aqua Base/Shades/Shades-01.jpg"
+      },
+      {
+        "img": "assets/product_description/Aqua Base/Shades/Shades-02.jpg"
+      },
+      {
+        "img": "assets/product_description/Aqua Base/Shades/Shades-03.jpg"
+      },
+      {
+        "img": "assets/product_description/Aqua Base/Shades/Shades-04.jpg"
+      },
+      {
+        "img": "assets/product_description/Aqua Base/Shades/Shades-05.jpg"
+      },
+      {
+        "img": "assets/product_description/Aqua Base/Shades/Shades-06.jpg"
+      },
+      {
+        "img": "assets/product_description/Aqua Base/Shades/Shades-07.jpg"
+      },
+      {
+        "img": "assets/product_description/Aqua Base/Shades/Shades-08.jpg"
+      },
+      {
+        "img": "assets/product_description/Aqua Base/Shades/Shades-09.jpg"
+      },
+      {
+        "img": "assets/product_description/Aqua Base/Shades/Shades-10.jpg"
+      }
+    ]
+  },
+  "Bridalbase": {
+    "product_title": "Bridal Base",
+    "product_title_subtitle": "Oil Free",
+    "img": "assets/Products/Bridal base.jpg",
+    "link": "single_products/Bridalbase",
+    "product_description": "Lite Base it is a skin colored base applied to the face to create an even uniform color to the complexion to cover flaws.",
+    "featureProductHomePage": false,
+    "product_description_img": "assets/product_description/bridal base/Post.jpg",
+    "product_additional_information_color": "Black, White, transparent, etc.",
+    "product_additional_information_weight": "20gm, 30gm, 40gm",
+    "product_additional_information_lasting": "24 hours",
+    "product_additional_information_spf": "30",
+    "product_additional_information_expriy": "2 years",
+    "suggestion_1": "CakeEyeliner",
+    "suggestion_2": "Compactpowder",
+    "suggestion_3": "EasyBase",
+    "product360imgpath": "Bridal base",
+    "model_lst": [
+      {
+        "color": "#000",
+        "scale": 3,
+        "position": [
+          -30,
+          0,
+          80.3
+        ],
+        "type": null,
+        "path": "assets/product_description/bridal base/3d model bridal base/black/Bridal Base 2.gltf"
+      },
+      {
+        "color": "#fcd4d4",
+        "scale": 3,
+        "position": [
+          -30,
+          0,
+          80.3
+        ],
+        "type": null,
+        "path": "assets/product_description/bridal base/3d model bridal base/pink/Bridal Base 2.gltf"
+      },
+      {
+        "color": "#00000000",
+        "scale": 3,
+        "position": [
+          -30,
+          0,
+          80.3
+        ],
+        "type": null,
+        "path": "assets/product_description/bridal base/3d model bridal base/transparent/Bridal Base.gltf"
+      }
+    ],
+    "shades": [
+      {
+        "img": "assets/product_description/bridal base/Shades/Shades-01.jpg"
+      },
+      {
+        "img": "assets/product_description/bridal base/Shades/Shades-02.jpg"
+      },
+      {
+        "img": "assets/product_description/bridal base/Shades/Shades-03.jpg"
+      },
+      {
+        "img": "assets/product_description/bridal base/Shades/Shades-04.jpg"
+      },
+      {
+        "img": "assets/product_description/bridal base/Shades/Shades-05.jpg"
+      },
+      {
+        "img": "assets/product_description/bridal base/Shades/Shades-06.jpg"
+      },
+      {
+        "img": "assets/product_description/bridal base/Shades/Shades-07.jpg"
+      },
+      {
+        "img": "assets/product_description/bridal base/Shades/Shades-08.jpg"
+      },
+      {
+        "img": "assets/product_description/bridal base/Shades/Shades-09.jpg"
+      }
+    ]
+  },
+  "CakeEyeliner": {
+    "product_title": "Cake Eyeliner",
+    "product_title_subtitle": "Oil Free",
+    "img": "assets/Products/Cake Eyeliner_.jpg",
+    "link": "single_products/CakeEyeliner",
+    "product_container_notshow": false,
+    "product_description": "Cake Eyeliner is a compact eyeliner that is applied using a small amount of water presented in an elegant packaging due to its extraordinary formulation, cake eyeliner is specially color intensive and long lasting. Applied with cake eyeliner sealer it is smudge and waterproof.",
+    "featureProductHomePage": false,
+    "product_description_img": "assets/product_description/cake eyeliner/post.jpg",
+    "product_additional_information_color": "N/A",
+    "product_additional_information_weight": "20gm",
+    "product_additional_information_lasting": "24 hours",
+    "product_additional_information_spf": "15",
+    "product_additional_information_expriy": "2 years",
+    "suggestion_1": "Compactpowder",
+    "suggestion_2": "EasyBase",
+    "suggestion_3": "LiquidFoundation",
+    "product360imgpath": "Cake eyeliner",
+    "model_lst": [
+      {
+        "color": "",
+        "scale": 3,
+        "position": [
+          -30,
+          0,
+          80.3
+        ],
+        "type": null,
+        "path": "assets/product_description/cake eyeliner/3d model cake eyeliner/Cake eyeliner.gltf"
+      }
+    ],
+    "shades": [
+      {
+        "img": "assets/product_description/cake eyeliner/Shades/Shades-01.jpg"
+      },
+      {
+        "img": "assets/product_description/cake eyeliner/Shades/Shades-02.jpg"
+      },
+      {
+        "img": "assets/product_description/cake eyeliner/Shades/Shades-03.jpg"
+      },
+      {
+        "img": "assets/product_description/cake eyeliner/Shades/Shades-04.jpg"
+      },
+      {
+        "img": "assets/product_description/cake eyeliner/Shades/Shades-05.jpg"
+      },
+      {
+        "img": "assets/product_description/cake eyeliner/Shades/Shades-06.jpg"
+      },
+      {
+        "img": "assets/product_description/cake eyeliner/Shades/Shades-07.jpg"
+      }
+    ]
+  },
+  "Compactpowder": {
+    "product_title": "Compact Powder",
+    "product_title_subtitle": "Oil Free",
+    "product_description": "Compact Powders are the perfect type of powder to touch up when on the go. It is pressed into a pan and can be used to get rid of the excess oil and sweat on your face. A Compact Powder also adds light coverage to your skin and evens out your complexion.",
+    "featureProductHomePage": false,
+    "product_description_img": "assets/product_description/compact powder/post.jpg",
+    "product_additional_information_color": "Black, White, pink, etc.",
+    "product_additional_information_weight": "20gm",
+    "product_additional_information_lasting": "24 hours",
+    "product_additional_information_spf": "15",
+    "product_additional_information_expriy": "2 years",
+    "img": "assets/Products/compact powder.jpg",
+    "link": "single_products/Compactpowder",
+    "suggestion_1": "EasyBase",
+    "suggestion_2": "LiquidFoundation",
+    "suggestion_3": "LoosePowder",
+    "product360imgpath": "Compact powder",
+    "model_lst": [
+      {
+        "color": "#000",
+        "scale": 3,
+        "position": [
+          -30,
+          0,
+          80.3
+        ],
+        "type": null,
+        "path": "assets/product_description/compact powder/3d model compact powder/Black/Compact powder .gltf"
+      },
+      {
+        "color": "#e7e7e7",
+        "scale": 3,
+        "position": [
+          -30,
+          0,
+          80.3
+        ],
+        "type": null,
+        "path": "assets/product_description/compact powder/3d model compact powder/off white/Compact powder .gltf"
+      },
+      {
+        "color": "#fcd4d4",
+        "scale": 3,
+        "position": [
+          -30,
+          0,
+          80.3
+        ],
+        "type": null,
+        "path": "assets/product_description/compact powder/3d model compact powder/pink/Compact powder .gltf"
+      }
+    ],
+    "shades": [
+      {
+        "img": "assets/product_description/compact powder/Shades/Shades-01.jpg"
+      },
+      {
+        "img": "assets/product_description/compact powder/Shades/Shades-02.jpg"
+      },
+      {
+        "img": "assets/product_description/compact powder/Shades/Shades-03.jpg"
+      },
+      {
+        "img": "assets/product_description/compact powder/Shades/Shades-04.jpg"
+      },
+      {
+        "img": "assets/product_description/compact powder/Shades/Shades-05.jpg"
+      },
+      {
+        "img": "assets/product_description/compact powder/Shades/Shades-06.jpg"
+      },
+      {
+        "img": "assets/product_description/compact powder/Shades/Shades-07.jpg"
+      },
+      {
+        "img": "assets/product_description/compact powder/Shades/Shades-08.jpg"
+      },
+      {
+        "img": "assets/product_description/compact powder/Shades/Shades-09.jpg"
+      },
+      {
+        "img": "assets/product_description/compact powder/Shades/Shades-10.jpg"
+      }
+    ]
+  },
+  "EasyBase": {
+    "product_title": "Easy Base",
+    "product_title_subtitle": "Oil Free",
+    "product_description": "Lite Base it is a skin colored base applied to the face to create an even uniform color to the complexion to cover flaws.",
+    "featureProductHomePage": false,
+    "product_description_img": "assets/product_description/easy base/post.jpg",
+    "product_additional_information_color": "Black, White, pink, etc.",
+    "product_additional_information_weight": "20gm",
+    "product_additional_information_lasting": "24 hours",
+    "product_additional_information_spf": "30",
+    "product_additional_information_expriy": "2 years",
+    "img": "assets/Products/easy base.jpg",
+    "link": "single_products/EasyBase",
+    "suggestion_1": "LiquidFoundation",
+    "suggestion_2": "LoosePowder",
+    "suggestion_3": "LuxuryCompactpowder",
+    "product360imgpath": "Easy Base",
+    "model_lst": [
+      {
+        "color": "#000",
+        "scale": 2,
+        "position": [
+          -30.9,
+          0,
+          80
+        ],
+        "type": null,
+        "path": "assets/product_description/easy base/3d model easy base/black/Easy base.gltf"
+      },
+      {
+        "color": "#e7e7e7",
+        "scale": 3,
+        "position": [
+          -30,
+          0,
+          80.3
+        ],
+        "type": null,
+        "path": "assets/product_description/easy base/3d model easy base/off white/Easy base.gltf"
+      },
+      {
+        "color": "#fcd4d4",
+        "scale": 3,
+        "position": [
+          -30,
+          0,
+          80.3
+        ],
+        "type": null,
+        "path": "assets/product_description/easy base/3d model easy base/Pink/Easy base.gltf"
+      }
+    ],
+    "shades": [
+      {
+        "img": "assets/product_description/easy base/Shades/Shades-01.jpg"
+      },
+      {
+        "img": "assets/product_description/easy base/Shades/Shades-02.jpg"
+      },
+      {
+        "img": "assets/product_description/easy base/Shades/Shades-03.jpg"
+      },
+      {
+        "img": "assets/product_description/easy base/Shades/Shades-04.jpg"
+      },
+      {
+        "img": "assets/product_description/easy base/Shades/Shades-05.jpg"
+      },
+      {
+        "img": "assets/product_description/easy base/Shades/Shades-06.jpg"
+      },
+      {
+        "img": "assets/product_description/easy base/Shades/Shades-07.jpg"
+      },
+      {
+        "img": "assets/product_description/easy base/Shades/Shades-08.jpg"
+      },
+      {
+        "img": "assets/product_description/easy base/Shades/Shades-09.jpg"
+      }
+    ]
+  },
+  "LiquidFoundation": {
+    "product_title": "Liquid Foundation",
+    "product_title_subtitle": "Oil Free",
+    "product_description": "Liquid Foundation is a pigmented, liquid mixture ringing in finish and levels of coverage to conceal imperfections and leave the skin with a seamless look. A make-up that gives skin a fresh radiance. A supple feeling, A natural satin finish, A fluid texture that can be adjusted to the coverage you like, that even out skin tone and smooths away imperfections. The formula is enriched with softening agents for exceptional skin comfort.",
+    "featureProductHomePage": true,
+    "product_description_img": "assets/product_description/liquid foundation/post.jpg",
+    "product_additional_information_contaoner": "You have container options to personalize your choice",
+    "product_additional_information_color": null,
+    "product_additional_information_weight": "30ml, 40ml, 60ml",
+    "product_additional_information_lasting": "24 hours",
+    "product_additional_information_spf": "30",
+    "product_additional_information_expriy": "2 years",
+    "img": "assets/Products/liquid foundation.jpg",
+    "link": "single_products/LiquidFoundation",
+    "suggestion_1": "LoosePowder",
+    "suggestion_2": "LuxuryCompactpowder",
+    "suggestion_3": "Mattmousse",
+    "product360imgpath": "Liquid Foundation",
+    "model_lst": [
+      {
+        "color": "",
+        "scale": 3,
+        "position": [
+          -30,
+          0,
+          80.3
+        ],
+        "type": "con",
+        "path": "assets/product_description/liquid foundation/3d model liquid foundation/1/Liquid Foundation3.gltf",
+        "img": "assets/product_description/liquid foundation/3d model liquid foundation/1.jpg"
+      },
+      {
+        "color": "",
+        "scale": 3,
+        "position": [
+          -30,
+          0,
+          80.3
+        ],
+        "type": "con",
+        "path": "assets/product_description/liquid foundation/3d model liquid foundation/2/Liquid Foundation2.gltf",
+        "img": "assets/product_description/liquid foundation/3d model liquid foundation/2.jpg"
+      },
+      {
+        "color": "",
+        "scale": 3,
+        "position": [
+          -30,
+          0,
+          80.3
+        ],
+        "type": "con",
+        "path": "assets/product_description/liquid foundation/3d model liquid foundation/3/Liquid Foundation.gltf",
+        "img": "assets/product_description/liquid foundation/3d model liquid foundation/3.jpg"
+      }
+    ],
+    "shades": [
+      {
+        "img": "assets/product_description/liquid foundation/Shades/Shades-01.jpg"
+      },
+      {
+        "img": "assets/product_description/liquid foundation/Shades/Shades-02.jpg"
+      },
+      {
+        "img": "assets/product_description/liquid foundation/Shades/Shades-03.jpg"
+      },
+      {
+        "img": "assets/product_description/liquid foundation/Shades/Shades-04.jpg"
+      },
+      {
+        "img": "assets/product_description/liquid foundation/Shades/Shades-05.jpg"
+      },
+      {
+        "img": "assets/product_description/liquid foundation/Shades/Shades-06.jpg"
+      },
+      {
+        "img": "assets/product_description/liquid foundation/Shades/Shades-07.jpg"
+      },
+      {
+        "img": "assets/product_description/liquid foundation/Shades/Shades-08.jpg"
+      },
+      {
+        "img": "assets/product_description/liquid foundation/Shades/Shades-09.jpg"
+      },
+      {
+        "img": "assets/product_description/liquid foundation/Shades/Shades-10.jpg"
+      }
+    ]
+  },
+  "LoosePowder": {
+    "product_title": "Loose Powder",
+    "product_title_subtitle": "Oil Free",
+    "product_description": "The light, transparent fixing powder with a powder puff was formulated to give your skin a velvety appearance! It fixes all types of make-up to create a velvety look and prevents of oily skin throughout the day. After applying, your skin will look more polished and your make-up will be protected. Setting powder, finishing powder & translucent powder are the same, they are used to set your makeup application, so that makeup lasts longer.",
+    "featureProductHomePage": true,
+    "product_description_img": "assets/product_description/loose powder/post.jpg",
+    "product_additional_information_contaoner": "You have container options to personalize your choice",
+    "product_additional_information_color": null,
+    "product_additional_information_weight": "30gm, 40gm, 60gm",
+    "product_additional_information_lasting": "24 hours",
+    "product_additional_information_spf": "15",
+    "product_additional_information_expriy": "2 years",
+    "img": "assets/Products/loose powder.jpg",
+    "link": "single_products/LoosePowder",
+    "suggestion_1": "LuxuryCompactpowder",
+    "suggestion_2": "Mattmousse",
+    "suggestion_3": "PermanentNailpaint",
+    "product360imgpath": "Loose Powder",
+    "model_lst": [
+      {
+        "color": "",
+        "scale": 3,
+        "position": [
+          -30,
+          0,
+          80.3
+        ],
+        "type": null,
+        "path": "assets/product_description/loose powder/3d model loose powder/1/Loose Powder.gltf",
+        "img": "assets/product_description/loose powder/3d model loose powder/1.jpg"
+      },
+      {
+        "color": "",
+        "scale": 3,
+        "position": [
+          -30,
+          0,
+          80.3
+        ],
+        "type": null,
+        "path": "assets/product_description/loose powder/3d model loose powder/2/loose powder2.gltf",
+        "img": "assets/product_description/loose powder/3d model loose powder/2.jpg"
+      }
+    ],
+    "shades": [
+      {
+        "img": "assets/product_description/loose powder/Shades/Shades-01.jpg"
+      },
+      {
+        "img": "assets/product_description/loose powder/Shades/Shades-02.jpg"
+      },
+      {
+        "img": "assets/product_description/loose powder/Shades/Shades-03.jpg"
+      },
+      {
+        "img": "assets/product_description/loose powder/Shades/Shades-04.jpg"
+      },
+      {
+        "img": "assets/product_description/loose powder/Shades/Shades-05.jpg"
+      },
+      {
+        "img": "assets/product_description/loose powder/Shades/Shades-06.jpg"
+      },
+      {
+        "img": "assets/product_description/loose powder/Shades/Shades-07.jpg"
+      },
+      {
+        "img": "assets/product_description/loose powder/Shades/Shades-08.jpg"
+      },
+      {
+        "img": "assets/product_description/loose powder/Shades/Shades-09.jpg"
+      },
+      {
+        "img": "assets/product_description/loose powder/Shades/Shades-10.jpg"
+      }
+    ]
+  },
+  "LuxuryCompactpowder": {
+    "product_title": "Luxury Compact powder",
+    "product_title_subtitle": "Oil Free",
+    "product_description": "Luxury Compact Powders are the perfect type of powder to touch up when on the go. It is pressed into a pan and can be used to get rid of the excess oil and sweat on your face. A Compact Powder also adds light coverage to your skin and evens out your complexion.",
+    "featureProductHomePage": true,
+    "product_description_img": "assets/product_description/luxury compact powder/post.jpg",
+    "product_additional_information_contaoner": "You have container options to personalize your choice",
+    "product_additional_information_color": null,
+    "product_additional_information_weight": "10gm, 20gm, 25gm, 30gm",
+    "product_additional_information_lasting": "24 hours",
+    "product_additional_information_spf": "15",
+    "product_additional_information_expriy": "2 years",
+    "img": "assets/Products/Luxury Compact powder.jpg",
+    "link": "single_products/LuxuryCompactpowder",
+    "suggestion_1": "Mattmousse",
+    "suggestion_2": "PermanentNailpaint",
+    "suggestion_3": "PaintStick",
+    "product360imgpath": "Luxury compact powder",
+    "model_lst": [
+      {
+        "color": "",
+        "scale": 3,
+        "position": [
+          -30,
+          0,
+          80.3
+        ],
+        "type": "con",
+        "path": "assets/product_description/luxury compact powder/3d model luxury compact powder/1/Luxury compact powder.gltf",
+        "img": "assets/product_description/luxury compact powder/3d model luxury compact powder/1.jpg"
+      },
+      {
+        "color": "",
+        "scale": 3,
+        "position": [
+          -30,
+          0,
+          80.3
+        ],
+        "type": "con",
+        "path": "assets/product_description/luxury compact powder/3d model luxury compact powder/2/Luxury compact powder1.gltf",
+        "img": "assets/product_description/luxury compact powder/3d model luxury compact powder/2.jpg"
+      },
+      {
+        "color": "",
+        "scale": 3,
+        "position": [
+          -30,
+          0,
+          80.3
+        ],
+        "type": "con",
+        "path": "assets/product_description/luxury compact powder/3d model luxury compact powder/3/Luxury compact powder2.gltf",
+        "img": "assets/product_description/luxury compact powder/3d model luxury compact powder/3.jpg"
+      }
+    ],
+    "shades": [
+      {
+        "img": "assets/product_description/luxury compact powder/Shades/Shades-01.jpg"
+      },
+      {
+        "img": "assets/product_description/luxury compact powder/Shades/Shades-02.jpg"
+      },
+      {
+        "img": "assets/product_description/luxury compact powder/Shades/Shades-03.jpg"
+      },
+      {
+        "img": "assets/product_description/luxury compact powder/Shades/Shades-04.jpg"
+      },
+      {
+        "img": "assets/product_description/luxury compact powder/Shades/Shades-05.jpg"
+      },
+      {
+        "img": "assets/product_description/luxury compact powder/Shades/Shades-06.jpg"
+      },
+      {
+        "img": "assets/product_description/luxury compact powder/Shades/Shades-07.jpg"
+      },
+      {
+        "img": "assets/product_description/luxury compact powder/Shades/Shades-08.jpg"
+      },
+      {
+        "img": "assets/product_description/luxury compact powder/Shades/Shades-09.jpg"
+      },
+      {
+        "img": "assets/product_description/luxury compact powder/Shades/Shades-10.jpg"
+      }
+    ]
+  },
+  "Mattmousse": {
+    "product_title": "Matt Mousse",
+    "product_title_subtitle": "Oil Free",
+    "product_description": "This long lasting foundation features exclusive silky matt powder spheres that glide evenly onto the skin for a flawless, soft-focus 16-hour matt finish. Suitable for all skin types.",
+    "featureProductHomePage": false,
+    "product_description_img": "assets/product_description/matt mousse/post.jpg",
+    "product_additional_information_color": "Black, White, pink, etc.",
+    "product_additional_information_weight": "30gm, 40gm, 50gm",
+    "product_additional_information_lasting": "12 hours",
+    "product_additional_information_spf": "20",
+    "product_additional_information_expriy": "2 years",
+    "img": "assets/Products/Matt mousse.jpg",
+    "link": "single_products/Mattmousse",
+    "suggestion_1": "PermanentNailpaint",
+    "suggestion_2": "PaintStick",
+    "suggestion_3": "PanCake",
+    "product360imgpath": "Matt MOUSSEE",
+    "model_lst": [
+      {
+        "color": "#000",
+        "scale": 3,
+        "position": [
+          -30,
+          0,
+          80.3
+        ],
+        "type": null,
+        "path": "assets/product_description/matt mousse/3d model matt mousse/Black/Matt Mousse2.gltf"
+      },
+      {
+        "color": "#e7e7e7",
+        "scale": 3,
+        "position": [
+          -30,
+          0,
+          80.3
+        ],
+        "type": null,
+        "path": "assets/product_description/matt mousse/3d model matt mousse/off white/Matt Mousse2.gltf"
+      },
+      {
+        "color": "#fcd4d4",
+        "scale": 3,
+        "position": [
+          -30,
+          0,
+          80.3
+        ],
+        "type": null,
+        "path": "assets/product_description/matt mousse/3d model matt mousse/pink/Matt Mousse2.gltf"
+      }
+    ],
+    "shades": [
+      {
+        "img": "assets/product_description/matt mousse/Shades/Shades-01.jpg"
+      },
+      {
+        "img": "assets/product_description/matt mousse/Shades/Shades-02.jpg"
+      },
+      {
+        "img": "assets/product_description/matt mousse/Shades/Shades-03.jpg"
+      },
+      {
+        "img": "assets/product_description/matt mousse/Shades/Shades-04.jpg"
+      },
+      {
+        "img": "assets/product_description/matt mousse/Shades/Shades-05.jpg"
+      },
+      {
+        "img": "assets/product_description/matt mousse/Shades/Shades-06.jpg"
+      },
+      {
+        "img": "assets/product_description/matt mousse/Shades/Shades-07.jpg"
+      },
+      {
+        "img": "assets/product_description/matt mousse/Shades/Shades-08.jpg"
+      }
+    ]
+  },
+  "PermanentNailpaint": {
+    "product_title": "Permanent Nail Paint",
+    "product_title_subtitle": "Oil Free",
+    "product_description": "Offering the best of both worlds – peel-off and permanent formulations! Now you can enjoy the convenience of a quick peel-off nail polish for those spontaneous style changes, without the need for harsh removers. Just apply, let it dry, and peel it off effortlessly when you desire a fresh look! On days when you crave long-lasting elegance, our innovative permanent formula provides chip-resistant, vibrant color that endures through daily wear and tear. Choose from a wide array of stunning shades to express your unique style. Embrace the freedom to switch up your manicure as you please!",
+    "featureProductHomePage": false,
+    "product_description_img": "assets/product_description/permanent nail paint/post.jpg",
+    "product_additional_information_contaoner": "You have container options to personalize your choice",
+    "product_additional_information_color": null,
+    "product_additional_information_weight": "80ml, 10ml, 11ml, 12ml",
+    "product_additional_information_lasting": "24 hours",
+    "product_additional_information_spf": "N/A",
+    "product_additional_information_expriy": "1 years",
+    "img": "assets/Products/Nail paint.jpg",
+    "link": "single_products/PermanentNailpaint",
+    "suggestion_1": "PaintStick",
+    "suggestion_2": "PanCake",
+    "suggestion_3": "PeeloffNailPaint",
+    "product360imgpath": "Nail Paint",
+    "model_lst": [
+      {
+        "color": "",
+        "scale": 3,
+        "position": [
+          -30,
+          0,
+          80.3
+        ],
+        "type": null,
+        "path": "assets/product_description/permanent nail paint/3d model permanent nail paint/Nail paints 2.gltf"
+      }
+    ],
+    "shades": []
+  },
+  "PaintStick": {
+    "product_title": "Paint Stick",
+    "product_title_subtitle": "Oil Free",
+    "product_description": "TV Paint Stick is our most popular foundation in stick form for those who want full coverage with a matt finish. This hybrid is based on a creamy fusion of oils and waxes making the product incredibly durable.",
+    "featureProductHomePage": false,
+    "product_description_img": "assets/product_description/PAINT SKICK/post.jpg",
+    "product_additional_information_color": "Black, White, pink, etc.",
+    "product_additional_information_weight": "30gm, 40gm, 50gm",
+    "product_additional_information_lasting": "24 hours",
+    "product_additional_information_spf": "20",
+    "product_additional_information_expriy": "2 years",
+    "img": "assets/Products/Paint Stick_.jpg",
+    "link": "single_products/PaintStick",
+    "suggestion_1": "PanCake",
+    "suggestion_2": "PeeloffNailPaint",
+    "suggestion_3": "Serumfoundation",
+    "product360imgpath": "Paint Stick",
+    "model_lst": [
+      {
+        "color": "#000",
+        "scale": 3,
+        "position": [
+          -30,
+          0,
+          80.3
+        ],
+        "type": null,
+        "path": "assets/product_description/PAINT SKICK/3D MODEL PAINT SKICK/black/paint stick.gltf"
+      },
+      {
+        "color": "#e7e7e7",
+        "scale": 3,
+        "position": [
+          -30,
+          0,
+          80.3
+        ],
+        "type": null,
+        "path": "assets/product_description/PAINT SKICK/3D MODEL PAINT SKICK/off white/paint stick.gltf"
+      },
+      {
+        "color": "#fcd4d4",
+        "scale": 3,
+        "position": [
+          -30,
+          0,
+          80.3
+        ],
+        "type": null,
+        "path": "assets/product_description/PAINT SKICK/3D MODEL PAINT SKICK/pink/paint stick.gltf"
+      }
+    ],
+    "shades": [
+      {
+        "img": "assets/product_description/PAINT SKICK/Shades/Shades-01.jpg"
+      },
+      {
+        "img": "assets/product_description/PAINT SKICK/Shades/Shades-02.jpg"
+      },
+      {
+        "img": "assets/product_description/PAINT SKICK/Shades/Shades-03.jpg"
+      },
+      {
+        "img": "assets/product_description/PAINT SKICK/Shades/Shades-04.jpg"
+      },
+      {
+        "img": "assets/product_description/PAINT SKICK/Shades/Shades-05.jpg"
+      },
+      {
+        "img": "assets/product_description/PAINT SKICK/Shades/Shades-06.jpg"
+      },
+      {
+        "img": "assets/product_description/PAINT SKICK/Shades/Shades-07.jpg"
+      },
+      {
+        "img": "assets/product_description/PAINT SKICK/Shades/Shades-08.jpg"
+      },
+      {
+        "img": "assets/product_description/PAINT SKICK/Shades/Shades-09.jpg"
+      },
+      {
+        "img": "assets/product_description/PAINT SKICK/Shades/Shades-10.jpg"
+      }
+    ]
+  },
+  "PeeloffNailPaint": {
+    "product_title": "Peel off Nail Paint",
+    "product_title_subtitle": "Oil Free",
+    "product_description": "Offering the best of both worlds – peel-off and permanent formulations! Now you can enjoy the convenience of a quick peel-off nail polish for those spontaneous style changes, without the need for harsh removers. Just apply, let it dry, and peel it off effortlessly when you desire a fresh look! On days when you crave long-lasting elegance, our innovative permanent formula provides chip-resistant, vibrant color that endures through daily wear and tear. Choose from a wide array of stunning shades to express your unique style. Embrace the freedom to switch up your manicure as you please!",
+    "featureProductHomePage": false,
+    "product_description_img": "assets/product_description/peel off nail paints/post.jpg",
+    "product_additional_information_contaoner": "You have container options to personalize your choice",
+    "product_additional_information_color": null,
+    "product_additional_information_weight": "80ml, 10ml, 11ml, 12ml",
+    "product_additional_information_lasting": "12 hours",
+    "product_additional_information_spf": "N/A",
+    "product_additional_information_expriy": "1 years",
+    "img": "assets/Products/Peel off Nail Paint.jpg",
+    "link": "single_products/PeeloffNailPaint",
+    "suggestion_1": "Serumfoundation",
+    "suggestion_2": "SpringLotion",
+    "suggestion_3": "TwoWayCake",
+    "product360imgpath": "Peel off nail paint",
+    "model_lst": [
+      {
+        "color": "",
+        "scale": 3,
+        "position": [
+          -30,
+          0,
+          80.3
+        ],
+        "type": null,
+        "path": "assets/product_description/peel off nail paints/3d model peel off nail paints/Nail paint.gltf"
+      }
+    ],
+    "shades": []
+  },
+  "Serumfoundation": {
+    "product_title": "Serum Foundation",
+    "product_title_subtitle": "Oil Free",
+    "product_container_notshow": true,
+    "product_description": "Introducing our revolutionary Serum Foundation, a game-changer in the world of beauty! This innovative product combines the lightweight texture of a serum with the flawless coverage of a foundation, creating a unique and luxurious experience for your skin. The formula is infused with nourishing and skin-loving ingredients, working effortlessly to blur imperfections, even out skin tone, and enhance your natural radiance. With its breathable and long-lasting formula, our Serum Foundation ensures a smooth, dewy finish that feels weightless on the skin. Say goodbye to heavy makeup and hello to a luminous, glowing complexion that lasts all day!",
+    "featureProductHomePage": true,
+    "product_description_img": "assets/product_description/serum foundation/post.jpg",
+    "product_additional_information_color": "N/A",
+    "product_additional_information_weight": "30ml, 40ml, 50ml, 60ml",
+    "product_additional_information_lasting": "24 hours",
+    "product_additional_information_spf": "20",
+    "product_additional_information_expriy": "2 years",
+    "img": "assets/Products/Serum foundation.jpg",
+    "link": "single_products/Serumfoundation",
+    "suggestion_1": "SpringLotion",
+    "suggestion_2": "TwoWayCake",
+    "suggestion_3": "AquaBase",
+    "product360imgpath": "Serum foundation",
+    "model_lst": [
+      {
+        "color": "",
+        "scale": 3,
+        "position": [
+          -30,
+          0,
+          80.3
+        ],
+        "type": "con",
+        "path": "assets/product_description/serum foundation/3d model serum foundation/Serum Foundation.gltf"
+      }
+    ],
+    "shades": [
+      {
+        "img": "assets/product_description/serum foundation/Shades/Shades-01.jpg"
+      },
+      {
+        "img": "assets/product_description/serum foundation/Shades/Shades-02.jpg"
+      },
+      {
+        "img": "assets/product_description/serum foundation/Shades/Shades-03.jpg"
+      },
+      {
+        "img": "assets/product_description/serum foundation/Shades/Shades-04.jpg"
+      },
+      {
+        "img": "assets/product_description/serum foundation/Shades/Shades-05.jpg"
+      },
+      {
+        "img": "assets/product_description/serum foundation/Shades/Shades-06.jpg"
+      },
+      {
+        "img": "assets/product_description/serum foundation/Shades/Shades-07.jpg"
+      },
+      {
+        "img": "assets/product_description/serum foundation/Shades/Shades-08.jpg"
+      },
+      {
+        "img": "assets/product_description/serum foundation/Shades/Shades-09.jpg"
+      },
+      {
+        "img": "assets/product_description/serum foundation/Shades/Shades-10.jpg"
+      }
+    ]
+  },
+  "SpringLotion": {
+    "product_title": "Spring Lotion",
+    "product_title_subtitle": "Oil Free",
+    "product_description": "Spring Lotion is basically used as a foundation before make-up. It is used as skin primer. Makes skin super soft. This Spring Lotion provides a protection layer for the skin to protect from the effect of heavy make-up.",
+    "featureProductHomePage": false,
+    "product_description_img": "assets/product_description/spring lotion/post-01.jpg",
+    "product_additional_information_color": "N/A",
+    "product_additional_information_weight": "105ml",
+    "product_additional_information_lasting": "12 hours",
+    "product_additional_information_spf": "15",
+    "product_additional_information_expriy": "2 years",
+    "img": "assets/Products/Spring Lotion.jpg",
+    "link": "single_products/SpringLotion",
+    "suggestion_1": "TwoWayCake",
+    "suggestion_2": "AquaBase",
+    "suggestion_3": "Bridalbase",
+    "product360imgpath": "Spring lotion",
+    "model_lst": [
+      {
+        "color": "#000",
+        "scale": 3,
+        "position": [
+          -30,
+          0,
+          80.3
+        ],
+        "type": null,
+        "path": "assets/product_description/spring lotion/3d model spring lotion/Black/Spring lotion.gltf"
+      },
+      {
+        "color": "#e7e7e7",
+        "scale": 3,
+        "position": [
+          -30,
+          0,
+          80.3
+        ],
+        "type": null,
+        "path": "assets/product_description/spring lotion/3d model spring lotion/off white/Spring lotion.gltf"
+      },
+      {
+        "color": "#fcd4d4",
+        "scale": 3,
+        "position": [
+          -30,
+          0,
+          80.3
+        ],
+        "type": null,
+        "path": "assets/product_description/spring lotion/3d model spring lotion/pink/Spring lotion.gltf"
+      }
+    ],
+    "shades": [
+      {
+        "img": "assets/product_description/spring lotion/Shades/Shades-01.jpg"
+      },
+      {
+        "img": "assets/product_description/spring lotion/Shades/Shades-02.jpg"
+      },
+      {
+        "img": "assets/product_description/spring lotion/Shades/Shades-03.jpg"
+      },
+      {
+        "img": "assets/product_description/spring lotion/Shades/Shades-04.jpg"
+      },
+      {
+        "img": "assets/product_description/spring lotion/Shades/Shades-05.jpg"
+      },
+      {
+        "img": "assets/product_description/spring lotion/Shades/Shades-06.jpg"
+      },
+      {
+        "img": "assets/product_description/spring lotion/Shades/Shades-07.jpg"
+      },
+      {
+        "img": "assets/product_description/spring lotion/Shades/Shades-08.jpg"
+      },
+      {
+        "img": "assets/product_description/spring lotion/Shades/Shades-09.jpg"
+      },
+      {
+        "img": "assets/product_description/spring lotion/Shades/Shades-10.jpg"
+      }
+    ]
+  },
+  "TwoWayCake": {
+    "product_title": "Two Way Cake",
+    "product_title_subtitle": "Oil Free",
+    "product_description": "Two Way Cake wet/dry foundation is a lasting foundation that empowers your face with a soft and velvet veil the flawless effect grants a uniform skin tone, minimizes small imperfections and gives a matte effect to your face, providing a natural brilliance.",
+    "featureProductHomePage": false,
+    "product_description_img": "assets/product_description/two way cake/post.jpg",
+    "product_additional_information_color": "Black, White, pink, etc.",
+    "product_additional_information_weight": "15gm, 20gm, 25gm",
+    "product_additional_information_lasting": "12 hours",
+    "product_additional_information_spf": "15",
+    "product_additional_information_expriy": "2 years",
+    "img": "assets/Products/Two Way Cake.jpg",
+    "link": "single_products/TwoWayCake",
+    "suggestion_1": "AquaBase",
+    "suggestion_2": "Bridalbase",
+    "suggestion_3": "CakeEyeliner",
+    "product360imgpath": "Two way cake",
+    "model_lst": [
+      {
+        "color": "#000",
+        "scale": 3,
+        "position": [
+          -30,
+          0,
+          80.3
+        ],
+        "type": null,
+        "path": "assets/product_description/two way cake/3d model two way cake/Black/Two way cake.gltf"
+      },
+      {
+        "color": "#e7e7e7",
+        "scale": 3,
+        "position": [
+          -30,
+          0,
+          80.3
+        ],
+        "type": null,
+        "path": "assets/product_description/two way cake/3d model two way cake/off white/Two way cake.gltf"
+      },
+      {
+        "color": "#fcd4d4",
+        "scale": 3,
+        "position": [
+          -30,
+          0,
+          80.3
+        ],
+        "type": null,
+        "path": "assets/product_description/two way cake/3d model two way cake/pink/Two way cake.gltf"
+      }
+    ],
+    "shades": [
+      {
+        "img": "assets/product_description/two way cake/Shades/Shades-01.jpg"
+      },
+      {
+        "img": "assets/product_description/two way cake/Shades/Shades-02.jpg"
+      },
+      {
+        "img": "assets/product_description/two way cake/Shades/Shades-03.jpg"
+      },
+      {
+        "img": "assets/product_description/two way cake/Shades/Shades-04.jpg"
+      }
+    ]
+  }
+}
